@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+Dockerrun.aws.json
 
 # testing
 /coverage
